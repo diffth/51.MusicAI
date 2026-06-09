@@ -25,3 +25,16 @@ npm-debug.log*
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Generated automation data
+trends.json
+visual_plan.json
+seo_plan.json
+publish_report.json
+
+# Media and Output directories
+output/
+*.png
+*.mp4
+*.mp3
+
