@@ -1,0 +1,27 @@
+# API keys and secrets
+.env
+.env.local
+.env.*.local
+client_secrets.json
+service-account*.json
+secret*.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Logs and databases
+logs/
+*.log
+npm-debug.log*
+*.db
+*.sqlite
+
+# OS metadata
+.DS_Store
+Thumbs.db
